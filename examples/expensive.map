@@ -1,0 +1,11 @@
+MAP
+day_cost 50
+entrance ШАХТА
+vertex ШАХТА 0
+vertex ЗАЛ-А 10
+vertex ЗАЛ-Б 20
+vertex ЗАЛ-В 12
+edge х1 ШАХТА ЗАЛ-А 0.4
+edge х2 ЗАЛ-А ЗАЛ-Б 0.9
+edge х3 ШАХТА ЗАЛ-В 0.9
+END
